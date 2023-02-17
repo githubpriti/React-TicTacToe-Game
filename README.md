@@ -24,7 +24,7 @@ What I learned in this:
 
 ![lco](./Screenshots/Web%20capture_17-2-2023_125316_localhost.jpeg)
 
-## [Live Project Link](http://localhost:3000/)
+## [Live Project Link](https://react-tic-tac-toe-game-mu.vercel.app/)
 
 For any query you can reach out at jajuvh@gmail.com I am happy to help anytime.
 
